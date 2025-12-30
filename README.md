@@ -109,7 +109,7 @@ Next-Word-Predictor/
 ├── app.py                             # Flask application entry point
 ├── requirements.txt                  # Python dependencies
 └── README.md                          # Project documentation
-
+```
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
@@ -157,8 +157,12 @@ pickle-mixin
 
 📸 Screenshots
 
-📌 Add screenshots of the UI here to improve visual appeal and recruiter impact.
-
+ ![]("https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081415.png")
+ ![]("https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081515.png")
+ ![]("https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081613.png")
+ ![]("https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081704.png")
+ ![]("https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081848.png")
+ ![]("https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20082331.png")
 🚀 Future Enhancements
 
 🔮 Top-k / Top-n word predictions
