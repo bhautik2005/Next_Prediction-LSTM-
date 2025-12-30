@@ -207,32 +207,37 @@ NLP research & sequence modeling concepts
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081415.png" height="280"/>
+      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081415.png"
+           width="420" height="280"/>
     </td>
     <td align="center" style="font-size:28px;">➜</td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081515.png" height="280"/>
+      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081515.png"
+           width="420" height="280"/>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081613.png" height="280"/>
+      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081613.png"
+           width="420" height="280"/>
     </td>
     <td align="center" style="font-size:28px;">➜</td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081704.png" height="280"/>
+      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081704.png"
+           width="420" height="280"/>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081848.png" height="280"/>
+      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081848.png"
+           width="420" height="280"/>
     </td>
     <td align="center" style="font-size:28px;">➜</td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20082331.png" height="280"/>
+      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20082331.png"
+           width="420" height="280"/>
     </td>
   </tr>
 </table>
-
