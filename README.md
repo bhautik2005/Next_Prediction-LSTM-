@@ -208,6 +208,9 @@ pickle-mixin
 
  ➜ 🧠 Transformer-based model (GPT-style)
 
+ ➜   🌍 Multi-language support
+
+ ➜ ☁️ Cloud deployment (AWS / Render / Hugging Face Spaces)
  
 
   
