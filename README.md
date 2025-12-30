@@ -164,12 +164,12 @@ pickle-mixin
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081415.png"
+      <img src="https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/b61abf47de1164ab9ca9a3b1dfc34f93d5b181cc/Screenshot%202025-12-30%20111713.png"
            width="420" height="280"/>
     </td>
     <td align="center" style="font-size:28px;"></td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081515.png"
+      <img src="https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/b61abf47de1164ab9ca9a3b1dfc34f93d5b181cc/Screenshot%202025-12-30%20111654.png"
            width="420" height="280"/>
     </td>
   </tr>
@@ -181,8 +181,8 @@ pickle-mixin
     </td>
     <td align="center" style="font-size:28px;"></td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081704.png"
-           width="420" height="280"/>
+     <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081515.png" width="420" height="280"/>
+            
     </td>
   </tr>
 
