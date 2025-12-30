@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>AI Sentence Completion</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>🧠 AI Sentence Completion</h1>
+        <p>Type a sentence and let AI complete it</p> 
+        
+
+        <textarea id="inputText" placeholder="Enter your sentence here..."></textarea>
+
+        <label>Number of words to predict:</label>
+        <input type="number" id="numWords" value="5" min="1" max="50">
+        <button id="predictBtn" onclick="predict()">Predict</button>
+        <div class="output">
+            <h3>Generated Text</h3>
+            <div id="loader" class="loader hidden">
+                <div class="spinner"></div>
+                <span>Generating text...</span>
+            </div>
+            <p id="statusText"></p>
+            <p id="outputText"></p>
+        </div>
+    </div>
+
+    <script>
+    function predict() {
+        const text = document.getElementById("inputText").value;
+        const numWords = document.getElementById("numWords").value;
+        const output = document.getElementById("outputText");
+        const status = document.getElementById("statusText");
+        const button = document.getElementById("predictBtn");
+        const loader = document.getElementById("loader");
+
+        // Reset UI
+        output.innerText = "";
+        status.innerText = "";
+        loader.classList.remove("hidden");
+        button.disabled = true;
+        button.innerText = "Generating...";
+
+        // Force browser repaint before fetch
+        setTimeout(() => {
+            fetch("/predict", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ text: text, num_words: numWords })
+            })
+            .then(res => res.json())
+            .then(data => {
+                output.innerText = data.prediction;
+                status.innerText = "✅ Generation complete";
+            })
+            .catch(err => {
+                status.innerText = "❌ Error generating text";
+                console.error(err);
+            })
+            .finally(() => {
+                loader.classList.add("hidden");   // ✅ STOP LOADER
+                button.disabled = false;
+                button.innerText = "Predict";
+            });
+        }, 50);
+    }
+    </script>
+
+</body>
+
+</html>
