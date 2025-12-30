@@ -89,21 +89,27 @@ This project solves that by leveraging **LSTM networks**, which are specifically
 ```bash
 Next-Word-Predictor/
 │
+├── Data_set/
+│   ├── processed_quotes_cleaned.csv   # Cleaned & preprocessed dataset
+│   └── quote_dataset.csv              # Original raw text dataset
+│
 ├── model/
-│   ├── model.h5             # Trained LSTM model
-│   ├── tokenizer.pkl        # Saved tokenizer
-│   └── max_len_x.pkl        # Max sequence length
+│   ├── lstm_model.h5                  # Trained LSTM model (version 1)
+│   ├── lstm_model2.h5                 # Trained LSTM model (version 2)
+│   ├── lstm_model3.h5                 # Best-performing LSTM model (final)
+│   ├── max_len_X.pkl                  # Serialized max sequence length
+│   └── tokenizer.pkl                  # Serialized tokenizer object
 │
 ├── static/
-│   └── style.css            # UI styling
+│   └── style.css                      # Frontend UI styling
 │
 ├── templates/
-│   └── index.html           # Frontend interface
+│   └── index.html                     # Web application interface
 │
-├── app.py                   # Flask application
-├── requirements.txt         # Dependencies
-└── README.md                # Project documentation
-```
+├── app.py                             # Flask application entry point
+├── requirements.txt                  # Python dependencies
+└── README.md                          # Project documentation
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
