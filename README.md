@@ -160,19 +160,44 @@ pickle-mixin
 > Visual overview of the **Next Word Predictor (LSTM)** web application.
 
 ### 🔹 UI & Prediction Workflow
+ 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081415.png"
+           width="420" height="280"/>
+    </td>
+    <td align="center" style="font-size:28px;"></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081515.png"
+           width="420" height="280"/>
+    </td>
+  </tr>
 
-| Screenshot 1 | Screenshot 2 |
-|-------------|--------------|
-| ![](https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081415.png) | ![](https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081515.png) |
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081613.png"
+           width="420" height="280"/>
+    </td>
+    <td align="center" style="font-size:28px;"></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081704.png"
+           width="420" height="280"/>
+    </td>
+  </tr>
 
-| Screenshot 3 | Screenshot 4 |
-|-------------|--------------|
-| ![](https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081613.png) | ![](https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081704.png) |
-
-| Screenshot 5 | Screenshot 6 |
-|-------------|--------------|
-| ![](https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081848.png) | ![](https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20082331.png) |
-
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081848.png"
+           width="420" height="280"/>
+    </td>
+    <td align="center" style="font-size:28px;"></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20082331.png"
+           width="420" height="280"/>
+    </td>
+  </tr>
+</table>
 
 
 🚀 Future Enhancements
@@ -191,7 +216,7 @@ pickle-mixin
 Bhautik Gondaliya
 Aspiring Data Scientist | Machine Learning & NLP Enthusiast
 
-This project reflects hands-on experience in Deep Learning, NLP pipelines, Flask deployment, and model lifecycle management.
+This project reflects hands-on experience in Deep Learning, NLP pipelines, Flask deployment(on process), and model lifecycle management.
 
 ⭐ Acknowledgments
 
@@ -200,44 +225,4 @@ TensorFlow & Keras Documentation
 NLP research & sequence modeling concepts
 
 
-## 📸 Application Screenshots
 
-> Left ➜ Right shows the application workflow
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081415.png"
-           width="420" height="280"/>
-    </td>
-    <td align="center" style="font-size:28px;">➜</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081515.png"
-           width="420" height="280"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081613.png"
-           width="420" height="280"/>
-    </td>
-    <td align="center" style="font-size:28px;">➜</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081704.png"
-           width="420" height="280"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081848.png"
-           width="420" height="280"/>
-    </td>
-    <td align="center" style="font-size:28px;">➜</td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20082331.png"
-           width="420" height="280"/>
-    </td>
-  </tr>
-</table>
