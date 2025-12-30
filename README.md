@@ -157,12 +157,12 @@ pickle-mixin
 
 📸 Screenshots
 
- ![]("https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081415.png")
- ![]("https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081515.png")
- ![]("https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081613.png")
- ![]("https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081704.png")
- ![]("https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081848.png")
- ![]("https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20082331.png")
+ ![img1](https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081415.png)
+ ![img2](https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081515.png)
+ ![img3](https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081613.png)
+ ![img4](https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081704.png)
+ ![img5](https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081848.png)
+ ![img6](https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20082331.png)
 🚀 Future Enhancements
 
 🔮 Top-k / Top-n word predictions
