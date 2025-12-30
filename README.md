@@ -155,26 +155,37 @@ pickle-mixin
 
 (See requirements.txt for full list)
 
-📸 Screenshots
+## 📸 Application Screenshots
 
- ![img1](https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081415.png)
- ![img2](https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081515.png)
- ![img3](https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081613.png)
- ![img4](https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081704.png)
- ![img5](https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081848.png)
- ![img6](https://github.com/bhautik2005/Next_Prediction-LSTM-/blob/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20082331.png)
+> Visual overview of the **Next Word Predictor (LSTM)** web application.
+
+### 🔹 UI & Prediction Workflow
+
+| Screenshot 1 | Screenshot 2 |
+|-------------|--------------|
+| ![](https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081415.png) | ![](https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081515.png) |
+
+| Screenshot 3 | Screenshot 4 |
+|-------------|--------------|
+| ![](https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081613.png) | ![](https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081704.png) |
+
+| Screenshot 5 | Screenshot 6 |
+|-------------|--------------|
+| ![](https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20081848.png) | ![](https://raw.githubusercontent.com/bhautik2005/Next_Prediction-LSTM-/d653eeb1303e20ed5654d38ddb3be047afbba876/Screenshot%202025-12-28%20082331.png) |
+
+
+
 🚀 Future Enhancements
 
-🔮 Top-k / Top-n word predictions
+ ➜  🔮 Top-k / Top-n word predictions
 
-📈 Beam search for better sentence generation
+ ➜  📈 Beam search for better sentence generation
 
-🧠 Transformer-based model (GPT-style)
+ ➜ 🧠 Transformer-based model (GPT-style)
 
-🌍 Multi-language support
+ 
 
-☁️ Cloud deployment (AWS / Render / Hugging Face Spaces)
-
+  
 🧑‍💻 Author
 
 Bhautik Gondaliya
